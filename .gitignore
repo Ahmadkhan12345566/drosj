@@ -1,0 +1,26 @@
+/node_modules
+/public/storage
+/public/hot
+/vendor
+Homestead.json
+Homestead.yaml
+.env
+/storage/logs/laravel.log
+/public/api-rendered-markdowns/*
+/public/api/
+/public/apk/
+/public/uploads/
+/laradock*/
+/public/assets/img/
+composer.lock
+/.idea/
+/.vscode/
+/public/privileges/
+/public/config.json
+/public/assets/pemfile/*
+/storage/
+/build/
+
+/public/temp/
+/ build
+
